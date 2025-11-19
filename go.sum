@@ -173,6 +173,8 @@ github.com/posener/complete v1.2.1/go.mod h1:6gapUrK/U1TAN7ciCoNRIdVC5sbdBTUh1DK
 github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6SoW27p1b0cqNHllgS5HIMJraePCO15w5zCzIWYg=
 github.com/rundeck/go-rundeck/rundeck v0.0.0-20190510195016-2cf9670bbcc4 h1:cHYuiq43YzTvI4TrNN0it8EuOGwXihXdoV/q/1fn9BY=
 github.com/rundeck/go-rundeck/rundeck v0.0.0-20190510195016-2cf9670bbcc4/go.mod h1:LwGKo0Rgd/scx5Z1OYIns6i0T9FxI/BUJ37+9TQa/9Y=
+github.com/rundeck/go-rundeck/rundeck v0.0.0-20251117161908-a5c70043b986 h1:UUNgYJniSuEBRC2AJ/JENBYOEqaNKOZ4gyzVgk0KDsA=
+github.com/rundeck/go-rundeck/rundeck v0.0.0-20251117161908-a5c70043b986/go.mod h1:LwGKo0Rgd/scx5Z1OYIns6i0T9FxI/BUJ37+9TQa/9Y=
 github.com/sergi/go-diff v1.0.0 h1:Kpca3qRNrduNnOQeazBd0ysaKrUJiIuISHxogkT9RPQ=
 github.com/sergi/go-diff v1.0.0/go.mod h1:0CfEIISq7TuYL3j771MWULgwwjU+GofnZX9QAmXWZgo=
 github.com/spf13/afero v1.2.2 h1:5jhuqJyZCZf2JRofRvN/nIFgIWNzPa3/Vz8mYylgbWc=

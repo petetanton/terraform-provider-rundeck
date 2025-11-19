@@ -228,7 +228,7 @@ github.com/posener/complete
 github.com/posener/complete/cmd
 github.com/posener/complete/cmd/install
 github.com/posener/complete/match
-# github.com/rundeck/go-rundeck/rundeck v0.0.0-20190510195016-2cf9670bbcc4
+# github.com/rundeck/go-rundeck/rundeck v0.0.0-20251117161908-a5c70043b986
 github.com/rundeck/go-rundeck/rundeck
 github.com/rundeck/go-rundeck/rundeck/auth
 # github.com/spf13/afero v1.2.2
