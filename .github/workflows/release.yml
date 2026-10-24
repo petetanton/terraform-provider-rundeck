@@ -43,7 +43,7 @@ jobs:
         name: Run GoReleaser
         uses: goreleaser/goreleaser-action@v2
         with:
-          version: 0.159.0
+          version: v2.19.0
           args: release --rm-dist
         env:
 #          GPG_FINGERPRINT: ${{ steps.import_gpg.outputs.fingerprint }}
